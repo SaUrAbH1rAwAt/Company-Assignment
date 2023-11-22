@@ -1,9 +1,5 @@
 
-# Hosted link of the App
 
-The App is hosted using Vercel
-
-hosted link of app  -  [https://ttt-assignment-eight.vercel.app/](https://ttt-assignment-eight.vercel.app/)
 
 
 # Abstract
